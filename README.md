@@ -16,6 +16,10 @@ Steps to be followed:
 ## Git Repo Link: 
 https://github.com/2025tm93239/PMO-Office
 
-## PMO.Office Repo Git Operation screenshots 
+## PMO.Office Repo Git Operation screenshots
+https://github.com/2025tm93239/PMO-Office/tree/main/Screenshots
+
+## Added a Inventory.xlxs file 
+https://github.com/2025tm93239/PMO-Office/blob/main/Inventory.xlsx
 
 
